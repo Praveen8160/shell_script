@@ -22,4 +22,3 @@ done
 #rebaseExample
 
 #Merge Example
-
