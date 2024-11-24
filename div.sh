@@ -18,4 +18,8 @@ then
 fi
 done
 
+
 #rebaseExample
+
+#Merge Example
+
