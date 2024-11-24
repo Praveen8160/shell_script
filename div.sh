@@ -8,7 +8,7 @@
 #fi
 #done
 
-for ((i=1;i<100;i++))
+for ((i=1;i<50;i++))
 do
 if (($i%2==0 || $i%5 == 0))
 then
